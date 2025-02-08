@@ -1,5 +1,7 @@
  # Projeto DataMarket: Insights com Python e Estatística
 
+Neste projeto, utilizei uma base de dados de produtos de um supermercado no Chile.
+
 ## Tecnologias Utilizadas: ##
 
 * Python: <br>
@@ -60,8 +62,8 @@ Ambiente de desenvolvimento em nuvem para execução dos códigos e visualizaç�
 <br>
 
 
-Os 5 exercícios respondidos com o projeto foram:
-
+## Os 5 exercícios respondidos com o projeto foram: ##
+ 
 1) Cálculo de Média e Mediana: Para entender a distribuição dos preços por categoria e identificar categorias com médias acima ou abaixo da mediana.
 
 2) Análise de Desvio Padrão: Para medir a variabilidade dos preços e identificar categorias com maior dispersão.
