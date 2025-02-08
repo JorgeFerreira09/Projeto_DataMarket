@@ -1,6 +1,7 @@
  # Projeto DataMarket: Insights com Python e Estatística
 
-Neste projeto, utilizei uma base de dados de produtos de um supermercado no Chile.
+Este é um projeto pessoal que utiliza uma base de dados de produtos de um supermercado no Chile, no formato CSV. <br> 
+Nele, resolvo diversos exercícios para aprimorar minhas habilidades. Espero que goste! 😉
 
 ## Tecnologias Utilizadas: ##
 
