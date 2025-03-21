@@ -1,7 +1,11 @@
- # Projeto DataMarket: Insights com Python e Estatística
+ # Projeto DataMarket: Análise de Vendas
 
 Este é um projeto pessoal que utiliza uma base de dados de produtos de um supermercado no Chile, no formato CSV. <br> 
 Nele, resolvo diversos exercícios para aprimorar minhas habilidades. Espero que goste! 😉
+
+Explore o projeto completo no link a seguir: <br>
+👉 https://github.com/JorgeFerreira09/Projeto_DataMarket/blob/main/Projeto_na_Integra.ipynb
+
 
 ## Tecnologias Utilizadas: ##
 
